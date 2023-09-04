@@ -9,5 +9,3 @@ Mainly C#, C++.
 # Personal Info
 Location: Malaysia
 Pronouns: He, Person, They, Them, Human
-
-![image](https://i.imgur.com/ujTQxfh.png)
